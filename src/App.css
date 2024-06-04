@@ -207,9 +207,9 @@
   }
 
   .buttons-row {
-    display: flex;
-    font-display: column;
-    gap: 20px;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 20px !important;
   }
 
   .price-line {
