@@ -206,6 +206,12 @@
     justify-content: center;
   }
 
+  .buttons-row {
+    display: flex;
+    font-display: column;
+    gap: 20px;
+  }
+
   .price-line {
     font-size: 12px;
     margin-bottom: 12px;
