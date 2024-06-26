@@ -30,7 +30,7 @@ const Price = () => {
                             <div className="price-list">
                                 <h5 className="fw-bold">Парикмахерский зал</h5>
                                 <div className="price-line">
-                                    <p style={{ width: '45%' }} className='mb-0'>Стиль ( мытья головы , стрижка , укладка )</p>
+                                    <p style={{ width: '45%' }} className='mb-0'>Стиль ( мытье головы , стрижка , укладка )</p>
                                     <hr className='price-dash' />
                                     <p style={{ width: '20%', textAlign: 'end' }} className='mb-0 fw-bold'>2500 руб</p>
                                 </div>
@@ -55,7 +55,7 @@ const Price = () => {
                                     <p style={{ width: '20%', textAlign: 'end' }} className='mb-0 fw-bold'>2800 - 3500 руб</p>
                                 </div>
                                 <div className="price-line">
-                                    <p style={{ width: '45%' }} className='mb-0'>Окрашеванние Корней ( до 40 гр.)</p>
+                                    <p style={{ width: '45%' }} className='mb-0'>Окрашевание Корней ( до 40 гр.)</p>
                                     <hr className='price-dash' />
                                     <p style={{ width: '20%', textAlign: 'end' }} className='mb-0 fw-bold'>5000 руб</p>
                                 </div>
@@ -70,7 +70,7 @@ const Price = () => {
                                     <p style={{ width: '20%', textAlign: 'end' }} className='mb-0 fw-bold'>9000 руб</p>
                                 </div>
                                 <div className="price-line">
-                                    <p style={{ width: '45%' }} className='mb-0'>Блондирование ,мелирование</p>
+                                    <p style={{ width: '45%' }} className='mb-0'>Блондирование, мелирование</p>
                                     <hr className='price-dash' />
                                     <p style={{ width: '20%', textAlign: 'end' }} className='mb-0 fw-bold'>5000 - 8500 руб</p>
                                 </div>
@@ -117,7 +117,7 @@ const Price = () => {
                                         <p style={{ width: '20%', textAlign: 'end' }} className='mb-0 fw-bold'>800 руб</p>
                                     </div>
                                     <div className="price-line">
-                                        <p style={{ width: '45%' }} className='mb-0'>Окрашивания хной</p>
+                                        <p style={{ width: '45%' }} className='mb-0'>Окрашивание хной</p>
                                         <hr className='price-dash' />
                                         <p style={{ width: '20%', textAlign: 'end' }} className='mb-0 fw-bold'>1000 руб</p>
                                     </div>
